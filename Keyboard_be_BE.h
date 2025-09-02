@@ -42,8 +42,9 @@
 #define KEY_CIRCUMFLEX       (136+0x2f)  // ^
 #define KEY_U_GRAVE          (136+0x34)  // ù
 #define KEY_SECTION_SIGN     (136+0x23)  // §
-#define KEY_EUR_SIGN        (136+0x08)  // €
-#define KEY_GBP_SIGN       (136+0x31)  // £
+#define KEY_EUR_SIGN         (136+0x08)  // €
+#define KEY_GBP_SIGN         (136+0x31)  // £
 
 #endif
 #endif
+
