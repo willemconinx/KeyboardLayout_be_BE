@@ -45,7 +45,7 @@ extern const uint8_t KeyboardLayout_be_BE[128] PROGMEM =
 	0x20|ALT_GR,   // #
 	0x30,          // $
 	0x34|SHIFT,    // %
-	0x1E,          // &
+	0x1e,          // &
 	0x21,          // '
 	0x22,          // (
 	0x2d,          // )
@@ -99,9 +99,9 @@ extern const uint8_t KeyboardLayout_be_BE[128] PROGMEM =
 	0x1c|SHIFT,    // Y
 	0x1a|SHIFT,    // Z
 	0x2f|ALT_GR,   // [
-	0x25|ALT_GR,   // bslash
+	0x32|ALT_GR,   // bslash
 	0x30|ALT_GR,   // ]
-	0x2f,          // ^
+	0x23|ALT_GR,   // ^
 	0x2e|SHIFT,    // _
 	0x31|ALT_GR,   // `
 	0x14,          // a
